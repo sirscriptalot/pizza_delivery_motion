@@ -1,6 +1,6 @@
 # Pizza Delivery Motion
 
-Pizza Delivery Motion wraps the [Pizza Delivery](https://github.com/soveran/pizza_delivery) gem for use in RubyMotion.
+Pizza Delivery Motion wraps the [Pizza Delivery](https://github.com/sirscriptalot/pizza_delivery) gem for use in RubyMotion.
 
 ## Installation
 
